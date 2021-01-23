@@ -2,11 +2,11 @@
 <html>
 
 <head>
-<title>This is the title of my page</title>
+<title>Blablabla</title>
 </head>
 
 <body>
-<h1>This is the main heading of my page</h1>
+<h1>Aaaaaa</h1>
 <h2>This is a sub heading</h2>
 
 <p>Here I have text I want on two lines<br/>
