@@ -1,2 +1,3 @@
 # luminietos.github.io
-Verkkosivujen kehittäminen (2021, AMK)
+
+W. Paloheimo (Verkkosivujen kehittäminen, 2021)
