@@ -2,6 +2,8 @@
 <html>
 <head>
 <title>Blablabla</title>
+<!-- link to main stylesheet -->
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
 </head>
 <body>
 <h1>Hello World</h1>
