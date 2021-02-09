@@ -23,7 +23,7 @@
 	<h2>Laurea on suomalainen AMK</h2>
     <p>Löydät lisätietoa aiheesta osoitteesta;</p>
     <a href="http://www.laurea.fi">Laurean ammattikorkeakoulu</a>
-    <p>Jos sinulla on kysymyksiä joihin et löydä vastausta, seiso 5°C sateessa kolmelta aamuyöllä ja laita viestiä henkilölle</p>
+    <p>Jos sinulla on kysymyksiä joihin et löydä vastausta, laita viestiä henkilölle</p>
     <a href="mailto:wilma.paloheimo@student.laurea.fi">Wilma Paloheimo.</a>
 </body>
 </html>
