@@ -4,14 +4,13 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Verkkosivun kehittäminen</title>
 	<link rel="stylesheet" href="index.css" type=text/>
 </head>
 <body>
 	<h1>Wilma P:n Sivusto</h1>
     <p>Tässä on sivusto, jonka tein Laurean kurssia varten.</p>
 	<p>Kyseinen sivusto ei ole vielä valmis.</p>
-	<div class="Best">Blabla</div>
+	<div class="Best">Listat</div>
 <ol>
 	<li>yksi</li>
 	<li>kaksi</li>
